@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\bin\Debug\net8.0\DuckApp.exe
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\bin\Debug\net8.0\DuckApp.deps.json
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\bin\Debug\net8.0\DuckApp.runtimeconfig.json
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\bin\Debug\net8.0\DuckApp.dll
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\bin\Debug\net8.0\DuckApp.pdb
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\obj\Debug\net8.0\DuckApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\obj\Debug\net8.0\DuckApp.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\obj\Debug\net8.0\DuckApp.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\obj\Debug\net8.0\DuckApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\obj\Debug\net8.0\DuckApp.dll
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\obj\Debug\net8.0\refint\DuckApp.dll
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\obj\Debug\net8.0\DuckApp.pdb
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\obj\Debug\net8.0\DuckApp.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\DuckApp\DuckApp\obj\Debug\net8.0\ref\DuckApp.dll

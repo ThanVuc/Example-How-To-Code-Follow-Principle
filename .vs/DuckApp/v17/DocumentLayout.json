@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\DuckApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9743157-82CE-4BBF-BE80-F7A69EA1C448}|DuckApp\\DuckApp.csproj|c:\\users\\admin\\desktop\\duckapp\\duckapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9743157-82CE-4BBF-BE80-F7A69EA1C448}|DuckApp\\DuckApp.csproj|solutionrelative:duckapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9743157-82CE-4BBF-BE80-F7A69EA1C448}|DuckApp\\DuckApp.csproj|c:\\users\\admin\\desktop\\duckapp\\duckapp\\duckmodel\\rocketduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9743157-82CE-4BBF-BE80-F7A69EA1C448}|DuckApp\\DuckApp.csproj|solutionrelative:duckapp\\duckmodel\\rocketduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 278,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RocketDuck.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DuckApp\\DuckApp\\DuckModel\\RocketDuck.cs",
+              "RelativeDocumentMoniker": "DuckApp\\DuckModel\\RocketDuck.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DuckApp\\DuckApp\\DuckModel\\RocketDuck.cs",
+              "RelativeToolTip": "DuckApp\\DuckModel\\RocketDuck.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:09:43.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DuckApp\\DuckApp\\Program.cs",
+              "RelativeDocumentMoniker": "DuckApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DuckApp\\DuckApp\\Program.cs",
+              "RelativeToolTip": "DuckApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:33:46.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 119,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
